@@ -9,10 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.akayk</groupId>
-	<artifactId>keep-in</artifactId>
+	<artifactId>spring-jwt-login</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>keep-in</name>
-	<description>Sample Note Project</description>
+	<description>Sample Spring Security JWT Guide</description>
 
 	<properties>
 		<java.version>17</java.version>
