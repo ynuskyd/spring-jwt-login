@@ -16,8 +16,6 @@ Sample for Spring Security OAuth2 with JWT token
 
     HTTP/200 Ok | User created successfully. 
 
-## Get a specific Thing
-
 ### Login
 
 `GET /auth/login`
