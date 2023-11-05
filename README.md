@@ -12,7 +12,7 @@ Sample for Spring Security OAuth2 with JWT token
     "email": "johndoe@user.com",
     "password": "1234" }'
 
-### Response
+#### Response
 
     HTTP/200 Ok | User created successfully. 
 
@@ -24,7 +24,7 @@ Sample for Spring Security OAuth2 with JWT token
     "username": "johndoe",
     "password": "1234" }'
 
-### Response
+#### Response
 
     HTTP/200 OK 
 
